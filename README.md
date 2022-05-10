@@ -1,2 +1,2 @@
 # MaximumSubarray
-Programming project for Analysis of Algorithms Class
+Programming project for Analysis of Algorithms class
